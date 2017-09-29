@@ -53,6 +53,9 @@ Plugin 'majutsushi/tagbar'
 "ack vim
 Plugin 'mileszs/ack.vim'
 
+" powerline
+Plugin 'https://github.com/Lokaltog/vim-powerline.git'
+
 "------------------ scripts not on GitHub--------------------------------- 
 " Plugin 'git://git.wincent.com/command-t.git' 
 "------- git repos on your local machine (i.e. when working on your own plugin)----- 
